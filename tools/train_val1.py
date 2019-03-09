@@ -135,7 +135,7 @@ def train_feature_fusion(model, train_loader, val_loader):
     centerloss = CenterLoss(num_classes=2, feat_dim=2, use_gpu=True)
 
     optimzer4center = torch.optim.SGD(centerloss.parameters(), lr=0.5)
-    loss_weight = 1
+    loss_weight = 0.1
     # focalloss = FocalLoss(gamma=2)
 
 

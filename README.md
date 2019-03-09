@@ -2,9 +2,9 @@
 
 
 1、环境:
-    pytorch 0.4.1
-	python 2.7
-	pycharm
+    # pytorch 0.4.1
+	# python 2.7
+	# pycharm
 	
 
 3、代码运行：

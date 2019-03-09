@@ -17,5 +17,6 @@
 4. 模型文件和test_set文件
 
     4.1 在文件夹trained model result中MultiNet-fusion-6.pt是模型文件
+	
 	4.2 在文件夹trained model result中test_data.txt是测试集结果
 	

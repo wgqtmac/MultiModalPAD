@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4e521f53-2bb5-42e3-aaca-140c12297d5a" name="multimodal@10.29.0.120" url="http://10.29.0.120">
+        <fileTransfer host="10.29.0.120" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1eae5342-4b25-45d9-a770-c2703fd4ef3e" name="multimodal@10.29.150.49" url="http://10.29.150.49">
+        <fileTransfer host="10.29.150.49" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

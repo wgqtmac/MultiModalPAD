@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="hanhu@10.29.150.49:22">
+    <serverData>
+      <paths name="gqwang@10.29.0.120:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gqwang@10.29.0.120:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gqwang@10.29.0.120:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gqwang@10.29.0.120:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/gqwang/code/MultiModalPAD" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gqwang@10.29.0.120:22 (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/gqwang/code/MultiModalPAD" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hanhu@10.29.150.49:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hanhu/code/PADChallenge/MultiModalPAD" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hanhu@10.29.150.49:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hanhu/code/MultiModalPAD" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="multimodal@10.29.0.120">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/gqwang/code/MultiModalPAD" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="multimodal@10.29.150.49">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hanhu/code/PADChallenge/MultiModalPAD" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+workers: 6
+weight_decay: 0.0005
+momentum: 0.9
+display: 50
+
+max_iter: 2000
+
+batch_size: 29
+test_batch_size: 50
+test_interval: 200 
+samples_per: 50
+train_subs: 3229
+test_subs: 807
+topk: 3
+
+base_lr: 0.0001
+
+start_iters: 0
+best_model: 12345678.9
+#-------------lr_policy--------------------#
+# step
+lr_policy: 'step'
+policy_parameter:
+  gamma: 0.333
+  # stage 1
+  # step_size: 3600
+  # stage 2
+  step_size: 800
